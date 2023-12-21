@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a development apprentice at Bosch Campinas
 
-<img href="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.despachantesantacruz.com.br%2Fnoticias%2Fnews_popup.php%3Fid%3D17053&psig=AOvVaw3KqokwEkCvtBBJyhiQnh4m&ust=1703260485293000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIjKyfbxoIMDFQAAAAAdAAAAABAD">
+<img src="https://i.pinimg.com/originals/c9/76/d2/c976d2511d0c7dc6304bfdbb7c565ff3.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-m%C3%A1ria-sut%C3%A9ro-6a003625b/) 
