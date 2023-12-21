@@ -1,8 +1,6 @@
 # 💫 About Me:
 I am a development apprentice at Bosch Campinas
 
-<img src="<iframe src="https://gifer.com/embed/TpF9" width=480 height=204.465 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>">
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-m%C3%A1ria-sut%C3%A9ro-6a003625b/) 
 
