@@ -1,7 +1,8 @@
 # 💫 About Me:
 I am a development apprentice at Bosch Campinas
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdn.meethk.com%2Fspai%2Fq_lossless%2Bret_img%2Fhttp%3A%2Fe10.beauty%2Ffast-and-furious-gif-tumblr&psig=AOvVaw27GVV0g8lEfOaBOLgmnhOR&ust=1703262852077000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNjUm936oIMDFQAAAAAdAAAAABAH">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcdn.meethk.com%2Fspai%2Fq_lossless%2Bret_img%2Fhttp%3A%2Fe10.beauty%2Ffast-and-furious-gif-">
+tumblr&psig=AOvVaw27GVV0g8lEfOaBOLgmnhOR&ust=1703262852077000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNjUm936oIMDFQAAAAAdAAAAABAH">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-m%C3%A1ria-sut%C3%A9ro-6a003625b/) 
