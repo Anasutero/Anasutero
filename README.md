@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a development apprentice at Bosch Campinas
+I am a development at Bosch Campinas
 
 <img src="https://i.pinimg.com/originals/2b/b4/a1/2bb4a1f7163efe6f685ed05009600d57.gif">
 
